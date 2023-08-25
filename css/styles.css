@@ -1,3 +1,7 @@
+:root {
+  --roboto: 'Roboto', sans-serif;
+}
+
 html {
   box-sizing: border-box;
 }
@@ -12,4 +16,10 @@ html {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  font-family: var(--roboto);
+}
+
+#title {
+  margin-top: 2rem;
+  font-size: 1.9rem;
 }
