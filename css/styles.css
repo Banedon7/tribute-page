@@ -1,5 +1,5 @@
 :root {
-  --roboto: 'Roboto', sans-serif;
+  --roboto: "Roboto", sans-serif;
 }
 
 html {
@@ -23,3 +23,23 @@ html {
   margin-top: 2rem;
   font-size: 1.9rem;
 }
+
+#description {
+  margin-top: 0.5rem;
+  font-size: 0.95rem;
+}
+
+#img-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+#image {
+  max-width: 95%;
+  width: 90%;
+  height: auto;
+}
+
