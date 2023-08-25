@@ -38,8 +38,22 @@ html {
 }
 
 #image {
-  max-width: 95%;
+  display: block;
+  max-width: 100%;
   width: 90%;
   height: auto;
 }
 
+#img-caption {
+  font-size: 0.9rem;
+  margin-top: 1rem;
+  padding: 0 1rem;
+}
+
+#tribute-info {
+  width: 90%;
+}
+
+#subtitle {
+  text-align: center;
+}
