@@ -56,4 +56,15 @@ html {
 
 #subtitle {
   text-align: center;
+  /* margin-bottom: 0; */
+}
+
+#headline {
+  text-decoration: underline;
+  margin-top: 2rem;
+}
+
+#paragraph {
+  text-align: justify;
+  padding: 0 0.4rem;
 }
