@@ -85,6 +85,19 @@ html {
   }
 
   #description {
-    font-size: 1.1rem;
+    font-size: 1.05rem;
+  }
+
+  #img-div {
+    width: 95%;
+  }
+
+  #image {
+    height: 75vh;
+  }
+
+  #img-caption {
+    font-size: 1.05rem;
+    margin-top: 1rem;
   }
 }
