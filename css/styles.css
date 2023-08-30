@@ -88,10 +88,6 @@ html {
     font-size: 1.05rem;
   }
 
-  #img-div {
-    width: 95%;
-  }
-
   #image {
     height: 75vh;
   }
@@ -99,5 +95,9 @@ html {
   #img-caption {
     font-size: 1.05rem;
     margin-top: 1rem;
+  }
+
+  #subtitle {
+    margin-top: 3rem;
   }
 }
